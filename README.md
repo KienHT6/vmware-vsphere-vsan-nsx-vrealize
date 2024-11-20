@@ -31,7 +31,10 @@ Licenses for each version of vmware series products (Special for testing)
 
 HG00K-03H8K-48929-8K1NP-3LUJ4
 
+## vSphere 8 Enterprise Plus with Add-on for Kubernetes
+
 NZ49H-001D2-080C0-R2272-96H10
+
 
 #### vSAN Enterprise Plus
 
@@ -173,6 +176,8 @@ GC7N2-2NZDM-H88NY-GWQ7G-YF0E0
 CA518-ALY17-4849Z-YYYET-YFRCD
 
 AC79A-DDG4K-48EWZ-DEZ7X-X6HFF
+
+UZ308-FUF8H-0815P-NGYQZ-N6RUF
 
 ## NSX Firewall with Advanced Threat Prevention
 
