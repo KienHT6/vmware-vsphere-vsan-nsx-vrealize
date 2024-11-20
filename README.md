@@ -15,6 +15,8 @@ Licenses for each version of vmware series products (Special for testing)
 
 4V200-02HEH-489G8-0H8N2-22K70
 
+4F282-0MLD2-M8869-T89G0-CF240
+
 #### vSphere 8 Basic
 
 0Z28K-02KEK-H81G9-0H9N0-23274
@@ -29,11 +31,17 @@ Licenses for each version of vmware series products (Special for testing)
 
 HG00K-03H8K-48929-8K1NP-3LUJ4
 
+NZ49H-001D2-080C0-R2272-96H10
+
 #### vSAN Enterprise Plus
 
 NF212-08H0K-488X8-WV9X6-1F024
 
+MG292-08L9K-48078-KJ372-27K20
 
+## VMware SDDC Manager
+
+DG58K-0R942-M89C0-DVTEQ-8YR20
 
 ## VMware vSphere 6.x
 
@@ -165,3 +173,22 @@ GC7N2-2NZDM-H88NY-GWQ7G-YF0E0
 CA518-ALY17-4849Z-YYYET-YFRCD
 
 AC79A-DDG4K-48EWZ-DEZ7X-X6HFF
+
+## NSX Firewall with Advanced Threat Prevention
+
+NC69K-4L040-M81T0-W98ZK-AFA40
+
+## NSX Data Center Distributed Threat Prevention
+
+FV3E0-2WF1N-488NP-XFXN9-ZU0R2
+
+## NSX Advanced Threat Prevention
+
+HG40K-0Y1E0-M80D0-0J9ZM-8UH6
+
+
+## NSX-ALB
+
+RF10H-42V00-08100-CJKN5-33R04
+
+
